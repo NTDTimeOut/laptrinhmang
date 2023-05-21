@@ -1,0 +1,3 @@
+admin admin
+ntd a
+timeout 18ntd
