@@ -411,6 +411,7 @@ void *threadProcessing(void *arg)
         else if (strcmp(cmd, "QUIT") == 0)
         {
             // QUIT
+            //hdhd
         }
         else
         {
